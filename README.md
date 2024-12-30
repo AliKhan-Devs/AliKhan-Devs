@@ -58,17 +58,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-### 
 
-📊 GitHub Stats:
+ ###
+ 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AliKhan-Devs&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AliKhan-Devs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
