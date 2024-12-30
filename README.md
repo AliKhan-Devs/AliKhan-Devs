@@ -75,8 +75,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AliKhan-Devs&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/AliKhan-Devs/AliKhan-Devs/output/snake.svg" alt="Snake animation" />
-
 ###
 
   ## 💰 You can help me by Donating
