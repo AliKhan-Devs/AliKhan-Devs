@@ -6,12 +6,12 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" height="40" alt = "C language"/> 
+ <img src="https://i.pinimg.com/564x/11/a1/fc/11a1fcab8fb20154a3276332e1dcfb86.jpg" height="50", border-radius = "15"/>
 </div>
 
 ###
