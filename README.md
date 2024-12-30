@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ali Khan</h1>
 <h3 align="center">A passionate Full Stack Developer from Mardan Pakistan</h3>
+- 🌍 I’m currently Pursuing a degree in **Computer Software Engineering**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhan-devs&label=Profile%20views&color=0e75b6&style=flat" alt="alikhan-devs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikhan-devs" alt="alikhan-devs" /></a> </p>
 
-- 🌍 I’m currently Pursuing a degree in **Computer Software Engineering**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alikhan-devs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikhan-devs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alikhan-devs" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png)" alt="alikhan-devs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
