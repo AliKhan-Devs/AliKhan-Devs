@@ -38,7 +38,7 @@
  <img width="5"/>
  <img src="https://camo.githubusercontent.com/ac3a06589c4bf400ac0f7b1e88b5fde3b107eb16b4de2b50736da875dc0e076f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f"/>
  <img width="5"/>
- <img src="https://avatars.githubusercontent.com/u/28029853?s=280&v=4"/>
+ <img src="https://avatars.githubusercontent.com/u/28029853?s=280&v=4" height = "56"/>
  <img width="5"/>
 </div>
 
