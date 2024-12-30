@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I Currently pursuing a degree in Computer Software Engineering and working as a passionate Full Stack Developer.</h4>
+<h3 align="left">I am Currently pursuing a degree in Computer Software Engineering and working as a passionate Full Stack Developer.</h3>
 
 ###
 
