@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a degree in Computer Software Engineering and working as a passionate Full Stack Developer, building robust, end-to-end solutions.<br><br>
+Hi! I am Ali Khan, currently pursuing a degree in Computer Software Engineering and working as a passionate Full Stack Developer, building robust, end-to-end solutions.<br><br>
 
 
 ## 🌐 Socials:
