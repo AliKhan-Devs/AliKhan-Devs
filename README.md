@@ -40,7 +40,7 @@
  <img width="5"/>
  <img src="https://avatars.githubusercontent.com/u/28029853?s=280&v=4" height = "56"/>
  <img width="5"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height = "56"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" height = "56"/>
  <img width="5"/>
 </div>
 
