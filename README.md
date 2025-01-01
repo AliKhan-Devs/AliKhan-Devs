@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I am Ali Khan</h1>
+# Hi there, I'm Ali Khan! 👋
 
 ###
 
