@@ -28,6 +28,8 @@
 
  <img src="https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
   <img width="5"/>
+ <img src="https://cdn.creazilla.com/icons/3244252/nextjs-icon-size_256.png"/>
+  <img width="5"/>
 
  <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"/>
  <img width="5"/>
