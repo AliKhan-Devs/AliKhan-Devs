@@ -29,7 +29,7 @@
  <img src="https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
   <img width="5"/>
 
-<img src="https://velog.velcdn.com/images/yun12343/post/2705eadf-0e4c-4d3f-bfcc-c8eb2c930f5b/image.png" height = "56"/>
+<img src="https://velog.velcdn.com/images/yun12343/post/2705eadf-0e4c-4d3f-bfcc-c8eb2c930f5b/image.png" height = "52"/>
  <img width="5"/>
 
  <img src="https://camo.githubusercontent.com/dfcbc4452c5be7d646a4c3c429677091f706f06a1a745c3519580a21b1f012be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e657874"/>
