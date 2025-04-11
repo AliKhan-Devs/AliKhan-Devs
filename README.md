@@ -1,116 +1,99 @@
-<!-- Hero Section -->
+# Hi there, I'm Ali Khan! 👋
 
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px 0; border-radius: 20px; box-shadow: 0 0 25px #00bfff;">
-  
-  <h1 style="color: #00BFFF;">Hi I am Ali Khan 👋</h1>
-  <h3 style="color: white;">Full Stack Web Developer | React • Next.js • Node.js • MongoDB</h3>
+###
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Creating+Interactive+Web+Apps;MERN+Stack+Enthusiast;Lifelong+Learner+%F0%9F%93%9A;Building+3D+Web+Experiences+🧠" />
-  </p>
+<h3 align="left">I am Currently pursuing a degree in Computer Software Engineering and working as a passionate Full Stack Developer.</h3>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="center">
+ <img width="5"/>
+ <img src="https://camo.githubusercontent.com/53b27cbad05c013d17c92bd9a820d0e7d9f5199f88ffc827dae965b4ac0657ca/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63"/>
+ <img width="5"/>
+ 
+ <img src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070"/>
+ <img width="5"/>
+
+ <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/>
+ <img width="5"/>
+ 
+ <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/>
+ <img width="5"/>
+
+ <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64"/>
+ <img width="5"/>
+
+ <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73"/>
+  <img width="5"/>
+
+ <img src="https://camo.githubusercontent.com/cb1fa2738a401d7952e8c150707084c5336ba9d544a238fad8c8d4d942353d8a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
+  <img width="5"/>
+
+
+ <img src="https://camo.githubusercontent.com/dfcbc4452c5be7d646a4c3c429677091f706f06a1a745c3519580a21b1f012be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e657874"/>
+  <img width="5"/>
+
+
+
+ <img src="https://camo.githubusercontent.com/c0ed7f7d36d6437790846bc99e238abd7cb2205dbec27c6e6be959abb04e2733/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"/>
+ <img width="5"/>
+ 
+ <img src="https://camo.githubusercontent.com/eed59029fe16e0f33431721522fb0eede534a072db478245b89b6bc4ab1b10f3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"/>
+ <img width="5"/>
+ 
+ <img src="https://camo.githubusercontent.com/ac3a06589c4bf400ac0f7b1e88b5fde3b107eb16b4de2b50736da875dc0e076f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f"/>
+ <img width="5"/>
+ 
+ <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" height = "56"/>
+ <img width="5"/>
+ 
+<img src="https://velog.velcdn.com/images/yun12343/post/2705eadf-0e4c-4d3f-bfcc-c8eb2c930f5b/image.png" height = "52"/>
+ <img width="5"/>
+ 
+ <img src="https://avatars.githubusercontent.com/u/28029853?s=280&v=4" height = "56"/>
+ <img width="5"/>
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png" height = "56"/>
+ <img width="5"/>
+ 
 </div>
 
----
+###
 
-<!-- About Me Section -->
-<div style="background: #0f2027; padding: 30px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <h2 style="color: white; text-align: center;">👋 About Me</h2>
-  <p style="color: #00BFFF; text-align: center; font-size: 1.2em; font-style: italic;">"I turn ideas into interactive web apps with clean UI and powerful functionality"</p>
-  <p style="color: white; font-size: 1.1em; max-width: 800px; margin: 0 auto; text-align: center;">
-    I’m a passionate web developer who loves building modern websites and web apps. I specialize in the <b>MERN stack</b> (MongoDB, Express, React, Node.js) and also enjoy creating <b>3D interactive experiences with</b> using <b>React Three Fiber</b>.
-    <br />
-    Currently, I’m focused on improving my skills in <b>Next.js</b>, learning advanced <b>API design</b>, and creating beautiful user interfaces.
-  </p>
-  <p style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&show_icons=true&theme=tokyonight&hide_border=true" width="80%" />
-  </p>
+<h2 align="left">Socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alikha9327224@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
----
+ ###
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Tech Stack Section -->
-<div style="background: linear-gradient(135deg, #203a43, #2c5364); padding: 50px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <h2 style="color: white; text-align: center; animation: fadeIn 2s ease;">🛠️ My Tech Stack</h2>
-  <p style="color: #00BFFF; text-align: center; font-size: 1.2em;">Here’s a glimpse of the technologies I use to create awesome projects:</p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,firebase,threejs,cpp" />
-  </p>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AliKhan-Devs&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-<!-- Projects Section -->
-<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 50px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <h2 style="color: #00BFFF; text-align: center; animation: fadeIn 2s ease;">🚀 Projects I’m Proud Of</h2>
-  <p style="color: white; font-size: 1.1em; text-align: center; margin-bottom: 20px;">Here are some of the web projects I’ve created:</p>
-  <p style="text-align: center;">
-    <a href="https://alis-devs-journal.vercel.app/" target="_blank" style="color: #00BFFF; text-decoration: none; font-size: 1.2em;">
-      🌐 <b>Ali's Devs Journal</b> — Full-stack Blog CMS with auth, admin panel, and blog management
-    </a>
-  </p>
-  <p style="text-align: center;">
-    <a href="https://anabeya.vercel.app/" target="_blank" style="color: #00BFFF; text-decoration: none; font-size: 1.2em;">
-      🛍️ <b>Anabeya Collection</b> — MERN E-commerce site with admin dashboard
-    </a>
-  </p>
-  <p style="text-align: center;">
-    <a href="#" target="_blank" style="color: #00BFFF; text-decoration: none; font-size: 1.2em;">
-      🧠 <b>3D R3F Portfolio</b> — A dev portfolio using 3D house model with scroll animation
-    </a>
-  </p>
-  <p style="text-align: center;">
-    <a href="#" target="_blank" style="color: #00BFFF; text-decoration: none; font-size: 1.2em;">
-      🎮 <b>React 3D Box Game</b> — Obstacle-jumping box game using React Three Fiber
-    </a>
-  </p>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AliKhan-Devs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AliKhan-Devs&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Learning Section -->
-<div style="background: #203a43; padding: 50px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <h2 style="color: white; text-align: center; animation: fadeIn 2s ease;">📚 What I’m Learning Right Now</h2>
-  <p style="color: #00BFFF; text-align: center; font-size: 1.2em;">Currently diving into:</p>
-  <ul style="color: white; font-size: 1.1em; margin-top: 20px; list-style-type: square;">
-    <li>📌 Building real-world projects using <b>Next.js</b></li>
-    <li>📌 Improving <b>API design</b> and <b>MongoDB queries</b></li>
-    <li>📌 Deep dive into <b>3D websites</b> using <b>Three.js</b> and <b>React Three Fiber</b></li>
-  </ul>
-</div>
+###
 
----
-
-<!-- Connect Section -->
-<div style="background: #0f2027; padding: 50px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <h2 style="color: white; text-align: center; animation: fadeIn 2s ease;">🌐 Let’s Connect</h2>
-  <p style="text-align: center;">
-    <a href="https://linkedin.com/in/alikhan-devs/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-    </a>
-    <a href="mailto:alikhan9327224@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-    </a>
-    <a href="https://ali-khan-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-<!-- Visitors Section -->
-<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 30px 0; border-radius: 20px; box-shadow: 0 0 15px #00bfff;">
-  <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=AliKhan-Devs&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  </p>
-</div>
-
----
-
-<!-- Custom CSS Animations -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AliKhan.Devs)
