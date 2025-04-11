@@ -11,7 +11,7 @@
 ###
 
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,firebase,threejs,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,mysql,threejs,cpp,c,arduino,tensorflow" />
   </p>
 
 
