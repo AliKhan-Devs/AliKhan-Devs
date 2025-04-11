@@ -11,9 +11,9 @@
 ###
 
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,firebase,threejs,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs,express,mongodb,redux,firebase,threejs,cpp,c" />
   </p>
-###
+
 
 <h2 align="left">Socials</h2>
 
