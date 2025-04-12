@@ -13,7 +13,7 @@
 
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0c0e82&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Software+Engineering+Student;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=19b0e3&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Software+Engineering+Student;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 
