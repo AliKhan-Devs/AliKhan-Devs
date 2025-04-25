@@ -54,9 +54,9 @@
 
 | Project | Tech Stack |
 |---------|------------|
-| **[MERN Chat Application](link)** | React, Mongo DB, Node.js and Socket.io |
-| **[Doctor Appointment App](link)**| React, Mongo Db, Node.js, Express js and Graph library |
-| **[Virtual Chemistry Lab](link)** | HTML, CSS and JS |
+| **[MERN Chat Application](https://chatapp-frontend-tau-roan.vercel.app/)** | React, Mongo DB, Node.js and Socket.io |
+| **[Doctor Appointment App](https://doctor-appointment-system-snowy-gamma.vercel.app/)**| React, Mongo Db, Node.js, Express js and Graph library |
+| **[Virtual Chemistry Lab](https://virtual-chemistry-lab-eta.vercel.app/)** | HTML, CSS and JS |
 
 
 </div>
