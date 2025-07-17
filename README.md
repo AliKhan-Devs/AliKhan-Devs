@@ -38,12 +38,12 @@
 
 ### Backend Craft
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,tensorflow" />
 </p>
 
 ### Tools & More
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,docker,git,github" />
 </p>
 
 ---
