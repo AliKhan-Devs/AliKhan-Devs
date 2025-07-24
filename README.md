@@ -67,9 +67,17 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&theme=dark&show_icons=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&theme=dark&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliKhan-Devs&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliKhan-Devs&theme=tokyonight&utcOffset=+5" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliKhan-Devs&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliKhan-Devs&theme=tokyonight" width="45%" />
+</p>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=AliKhan-Devs&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
