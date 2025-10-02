@@ -54,7 +54,7 @@
 
 | Project | Tech Stack |
 |---------|------------|
-| **[MERN Chat Application](https://chatapp-frontend-tau-roan.vercel.app/)** | React, Mongo DB, Node.js and Socket.io |
+| **[ABM CMS Website](https://abmpakistan.org/)** | MERN Based CMS Website |
 | **[Doctor Appointment App](https://doctor-appointment-system-snowy-gamma.vercel.app/)**| React, Mongo Db, Node.js, Express js and Graph library |
 | **[Virtual Chemistry Lab](https://virtual-chemistry-lab-eta.vercel.app/)** | HTML, CSS and JS |
 
