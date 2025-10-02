@@ -54,7 +54,7 @@
 
 | Project | Tech Stack |
 |---------|------------|
-| **[ABM CMS Website](https://abmpakistan.org/)** | MERN Based CMS Website |
+| **[ABM Pakistan CMS Website](https://abmpakistan.org/)** | MERN Based CMS Website |
 | **[Doctor Appointment App](https://doctor-appointment-system-snowy-gamma.vercel.app/)**| React, Mongo Db, Node.js, Express js and Graph library |
 | **[Virtual Chemistry Lab](https://virtual-chemistry-lab-eta.vercel.app/)** | HTML, CSS and JS |
 
