@@ -43,7 +43,7 @@
 
 ### Tools & More
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,docker,git,github,aws" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 | Project | Tech Stack |
 |---------|------------|
 | **[ABM Pakistan CMS Website](https://abmpakistan.org/)** | MERN Based CMS Website |
-| **[Doctor Appointment App](https://doctor-appointment-system-snowy-gamma.vercel.app/)**| MERN and Graph library |
+| **[Sale Management System](https://icemansice.com/)**| MERN  |
 | **[Chat Web App](https://chatapp-frontend-tau-roan.vercel.app/)** | MERN, Sockets |
 
 
@@ -102,27 +102,25 @@ Open to:
 <div align="center">
   <span>
     <h1>Connect With Me
-    <img src="https://dl.glitter-graphics.com/pub/3714/3714335qb78l91x32.gif" height='200'  style="vertical-align: middle;" />
-    </h1>
+    <!-- <img src="https://dl.glitter-graphics.com/pub/3714/3714335qb78l91x32.gif" height='200'  style="vertical-align: middle;" />
+    </h1> -->
   </span>
 </div>
 
 <p align="center">
   <a href="mailto:alikhandevs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://wa.me/923429327224" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" height='55' />
   </a>
   <a href="tel:+923429327224">
-    <img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+    <img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" height='48'/>
   </a>
-  <a href="https://www.instagram.com/alikhan_devs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+ 
 </p>
 
 ---
