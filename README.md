@@ -99,6 +99,8 @@ I’m open to:
 <p align="center">
   <a href="mailto:alikhandevs@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/alikhan-devs/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ <a href="https://builder.aws.com/community/@alikhandevs" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+ <a href="https://dev.to/alikhan-devs" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
   <a href="https://wa.me/923429327224" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" height="55"/></a>
   <a href="tel:+923429327224"><img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" height="48"/></a>
 </p>
