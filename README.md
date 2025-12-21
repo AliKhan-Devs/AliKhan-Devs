@@ -37,7 +37,7 @@
 
 ### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,graphql" />
 </p>
 
 ### 🧰 Tools, Cloud & DevOps
