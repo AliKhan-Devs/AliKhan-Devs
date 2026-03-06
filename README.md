@@ -62,7 +62,7 @@ I enjoy building **scalable APIs, distributed microservices, and event-driven ar
 
 | Project | Description | Tech |
 |------|------------|------|
-| **Event-Driven Order Processing System** | Microservices architecture with Order, Payment, and Inventory services communicating through AWS SNS & SQS for asynchronous processing. | Node.js, AWS SNS, AWS SQS, PostgreSQL |
+| **Event-Driven Order Processing System** | Microservices architecture with Order, Payment, and Inventory services communicating through AWS SNS & SQS for asynchronous processing. | Node.js, AWS SNS, AWS SQS, MongoDB |
 | **DeployEase – AWS Deployment Automation Platform** | Platform to automate application deployments, instance provisioning, and cloud infrastructure workflows. | Next.js, Node.js, AWS, Redis, BullMQ |
 | **IceMan’s Ice – Sales & Delivery Platform** | Production system managing order workflows, deliveries, and invoicing for a UK business. | Node.js, PostgreSQL, Next.js |
 | **Real-Time Chat Application** | Scalable chat platform with WebSocket communication and real-time messaging. | React, Node.js, MongoDB, WebSockets |
