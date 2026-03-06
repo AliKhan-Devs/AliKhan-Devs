@@ -3,64 +3,73 @@
 
 <div align="center">
   <h1>Hi, I'm Ali Khan</h1>
-  <h3>Junior Full-Stack Developer | MERN · Next.js · AWS · DevOps</h3>
+  <h3>Backend Engineer | Node.js · Microservices · AWS · Cloud Systems</h3>
 </div>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005fcbff&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;MERN+%7C+Next.js+Engineer;AWS+%7C+Cloud+Deployment+Focused;Building+Production-Ready+Web+Applications" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005fcbff&center=true&vCenter=true&width=760&lines=Backend+Engineer;Node.js+%7C+Distributed+Systems;AWS+%7C+Cloud+Infrastructure;Building+Scalable+Production+Systems" 
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I’m a **results-driven Full-Stack Developer** focused on building **scalable, production-ready web applications** using modern JavaScript technologies.
+I’m a **Software Engineer focused on backend systems and cloud infrastructure**.
 
-- Strong hands-on experience with **MERN & Next.js**
-- Comfortable working with **existing/legacy codebases** and extending them
-- Experience deploying applications on **AWS (EC2, S3, Redis, Queues)**
-- Built **real-time systems, CMS platforms, and client-facing products**
-- Passionate about **clean backend logic, APIs, and system design**
+I enjoy building **scalable APIs, distributed microservices, and event-driven architectures** that power modern applications.
+
+### What I Work With
+
+• **Node.js backend services and REST APIs**  
+• **Microservices & event-driven architectures**  
+• **AWS cloud infrastructure & deployment automation**  
+• **Relational and NoSQL databases**  
+• **System design and scalable backend architectures**
 
 🎓 Computer Software Engineering student  
-🚀 Actively seeking **Junior / Trainee / Internship roles**
+🏗️ Building production-ready systems and real-world client applications
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
+</p>
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,redux" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js" />
 </p>
 
-### Backend & Databases
+### Cloud & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,graphql" />
-</p>
-
-### Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,redis,linux,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|------|------------|-----------|
-| **DeployEase – AWS Auto Deployment Platform** | Designed a one-click EC2 deployment & automation platform to simplify cloud provisioning and application setup for developers. | Next.js, Node.js, AWS, Redis, BullMQ, PostgreSQL |
-| **Real-Time Chat Web Application** | Built a scalable real-time chat system with live messaging, online presence, and WebSocket-based communication. | React, Node.js, MongoDB, WebSockets |
-| **ABM Pakistan – CMS Platform (Client Project)** | Customized and extended an existing MERN-based CMS to provide enhanced content control, admin workflows, and maintainability for a production website. | MERN Stack |
-| **IceMan’s Ice Sale Management System** | Developed core business logic for sales and inventory management in collaboration with a 3-member development team. | Next.js, Node.js, MongoDB, Redis |
+| Project | Description | Tech |
+|------|------------|------|
+| **Event-Driven Order Processing System** | Microservices architecture with Order, Payment, and Inventory services communicating through AWS SNS & SQS for asynchronous processing. | Node.js, AWS SNS, AWS SQS, PostgreSQL |
+| **DeployEase – AWS Deployment Automation Platform** | Platform to automate application deployments, instance provisioning, and cloud infrastructure workflows. | Next.js, Node.js, AWS, Redis, BullMQ |
+| **IceMan’s Ice – Sales & Delivery Platform** | Production system managing order workflows, deliveries, and invoicing for a UK business. | Node.js, PostgreSQL, Next.js |
+| **Real-Time Chat Application** | Scalable chat platform with WebSocket communication and real-time messaging. | React, Node.js, MongoDB, WebSockets |
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -75,16 +84,16 @@ I’m a **results-driven Full-Stack Developer** focused on building **scalable, 
 
 ---
 
-## 🤝 Open To Opportunities
+# 🤝 Open To
 
-- Junior Full-Stack / Backend Developer Roles  
-- Software Engineering Internships  
-- Freelance & Contract Work  
-- Open-Source Collaboration  
+• Backend Engineering Roles  
+• Cloud / Infrastructure Roles  
+• Distributed Systems Projects  
+• Open Source Collaboration  
 
 ---
 
-## 📬 Connect With Me
+# 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:alikhandevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -97,6 +106,6 @@ I’m a **results-driven Full-Stack Developer** focused on building **scalable, 
 
 <div align="center">
 
-[![Explore My GitHub](https://img.shields.io/badge/Explore%20My%20Work-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliKhan-Devs)
+[![Explore My GitHub](https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliKhan-Devs)
 
 </div>
