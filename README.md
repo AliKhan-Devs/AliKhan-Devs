@@ -1,111 +1,133 @@
-<!-- Hero Section -->
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="260">
+<h1 align="center">Hi, I'm Ali Khan</h1>
 
 <div align="center">
-  <h1>Hi, I'm Ali Khan</h1>
-  <h3>Backend Engineer | Node.js · Microservices · AWS · Cloud Systems</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Backend+%26+Cloud+Engineer;Infrastructure+Tooling+%7C+Distributed+Systems;Node.js+%7C+AWS+%7C+LangGraph+%7C+Docker" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005fcbff&center=true&vCenter=true&width=760&lines=Backend+Engineer;Node.js+%7C+Distributed+Systems;AWS+%7C+Cloud+Infrastructure;Building+Scalable+Production+Systems" 
-    alt="Typing SVG"
-  />
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikhan-devs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alikhan-devs.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikhandevs@gmail.com)
+[![AWS Community](https://img.shields.io/badge/AWS_Community-Profile-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://community.aws/@alikhandevs)
+
+</div>
+
+## 👨‍💻 About Me
+
+I build the systems that **deploy, monitor, and run** other systems, infrastructure tooling, distributed backends, and AI-powered DevOps automation.
+
+- 🔧 Founder & Lead Engineer at **[SkyTech Developers](https://skytech-developers.vercel.app/)**  leading a team of 4, delivering production systems for real clients  
+- 🚀 Built and shipped **DeployEase**, **InfraPilot**, and **WatchTower**, a complete DevOps lifecycle trilogy  
+- ⚡ Work primarily with **Node.js, TypeScript, PostgreSQL, Redis, and AWS**  
+- 🤖 Exploring **LangGraph multi-agent systems** and AI-integrated infrastructure workflows  
+- 💬 Open to **remote backend, cloud/DevOps, or full-stack roles**
+
+## 🚀 Signature Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗼 <a href="https://github.com/AliKhan-Devs/WatchTower">WatchTower</a></h3>
+      <p>Self-hosted application monitoring platform. Drop <strong>2 lines</strong> into any Express app via the npm SDK, get real-time dashboards, threshold-based alerting (Slack/email/webhook), uptime monitoring, and a Redis-buffered metrics pipeline.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/AliKhan-Devs/InfraPilot">InfraPilot</a></h3>
+      <p>Describe your AWS infrastructure in plain English, get production-ready Terraform in seconds. A <strong>4-node LangGraph pipeline</strong> (Architect → Researcher → Coder → Reviewer) powered by Gemini 2.5 Flash + Tavily live search.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-blueviolet?style=flat&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Flow-FF0072?style=flat&logo=react&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/AliKhan-Devs/DeployEase">DeployEase</a></h3>
+      <p>AWS deployment automation platform. One-click deploys any GitHub repo to EC2, auto-configures Nginx, provisions ALB and auto-scaling groups. Includes a <strong>browser-based SSH terminal</strong> and an <strong>MCP server</strong> for AI agent control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat&logo=bull&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/AliKhan-Devs/event-driven-ecommerce-aws">Event-Driven E-Commerce</a></h3>
+      <p>Distributed microservices with Order, Payment, and Inventory services communicating through <strong>AWS SNS/SQS</strong>. Implements <strong>SAGA choreography</strong> for distributed transaction consistency, no service calls another directly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS_SNS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech Stack
+
+### Backend & Runtime
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
 </p>
 
----
-
-# 👨‍💻 About Me
-
-I’m a **Software Engineer focused on backend systems and cloud infrastructure**.
-
-I enjoy building **scalable APIs, distributed microservices, and event-driven architectures** that power modern applications.
-
-### What I Work With
-
-• **Node.js backend services and REST APIs**  
-• **Microservices & event-driven architectures**  
-• **AWS cloud infrastructure & deployment automation**  
-• **Relational and NoSQL databases**  
-• **System design and scalable backend architectures**
-
-🎓 Computer Software Engineering student  
-🏗️ Building production-ready systems and real-world client applications
-
----
-
-# 🛠 Tech Stack
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql" />
+### Databases & Caching
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
 </p>
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
+### Cloud & DevOps
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,github,kubernetes" />
 </p>
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,js" />
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### Cloud & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github" />
+### AI & Tooling
+<p align='center'>
+  <img src="https://skillicons.dev/icons?i=graphql,git,terraform" />
+  <img src="https://img.shields.io/badge/LangGraph-blueviolet?style=flat-square&logo=chainlink&logoColor=white&height=48"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|------|------------|------|
-| **Event-Driven Order Processing System** | Microservices architecture with Order, Payment, and Inventory services communicating through AWS SNS & SQS for asynchronous processing. | Node.js, AWS SNS, AWS SQS, MongoDB |
-| **DeployEase – AWS Deployment Automation Platform** | Platform to automate application deployments, instance provisioning, and cloud infrastructure workflows. | Next.js, Node.js, AWS, Redis, BullMQ |
-| **IceMan’s Ice – Sales & Delivery Platform** | Production system managing order workflows, deliveries, and invoicing for a UK business. | Node.js, PostgreSQL, Next.js |
-| **Real-Time Chat Application** | Scalable chat platform with WebSocket communication and real-time messaging. | React, Node.js, MongoDB, WebSockets |
-
----
-
-# 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=dark" />
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliKhan-Devs&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliKhan-Devs&theme=tokyonight&utcOffset=+5" width="45%" />
-</p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=tokyonight&hide_border=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliKhan-Devs&theme=tokyonight" height="165"/>
 </div>
 
----
+## 🏗️ What I'm Working On
 
-# 🤝 Open To
+- 🌍 Exploring deeper **system design**: consistency patterns, distributed consensus, observability at scale  
+- 🎯 Looking for a **remote backend engineering role** to work on systems that matter  
 
-• Backend Engineering Roles  
-• Cloud / Infrastructure Roles  
-• Distributed Systems Projects  
-• Open Source Collaboration  
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:alikhandevs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/alikhan-devs/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://builder.aws.com/community/@alikhandevs"><img src="https://skillicons.dev/icons?i=aws" /></a>
-  <a href="https://dev.to/alikhan-devs"><img src="https://skillicons.dev/icons?i=devto" /></a>
-</p>
-
----
+<br/>
 
 <div align="center">
 
-[![Explore My GitHub](https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliKhan-Devs)
+<strong>"I don't just build features, I build the infrastructure that makes features possible."</strong>
+
+<br/><br/>
+
+⭐ <em>If any of my projects helped you or gave you ideas, a star goes a long way</em>
 
 </div>
