@@ -531,7 +531,7 @@ DOCS
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=818CF8" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=818CF8"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=818CF8&icon_color=6366F1" height="170"/>
 
