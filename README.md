@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1e1b4b,100:312e81&height=220&section=header&text=ALI%20KHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20SYSTEMS%20%2F%20CLOUD%20INFRASTRUCTURE%20%2F%20BACKEND&descAlignY=60&descSize=15&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0c216a&height=220&section=header&text=ALI%20KHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20SYSTEMS%20%2F%20CLOUD%20INFRASTRUCTURE%20%2F%20BACKEND&descAlignY=60&descSize=15&animation=fadeIn"/>
 <br>
 
 <a href="https://alikhan-devs.vgercel.app"> <img src="https://img.shields.io/badge/◈_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
