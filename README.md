@@ -82,8 +82,7 @@ An ongoing project exploring object detection, activity recognition, and multi-c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&ring_color=818CF8" alt="GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1" alt="Top languages" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1" alt="Top languages" width="49%" />
 
 <br/><br/>
 
