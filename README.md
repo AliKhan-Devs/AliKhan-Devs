@@ -1,575 +1,115 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0c216a&height=220&section=header&text=ALI%20KHAN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20SYSTEMS%20%2F%20CLOUD%20INFRASTRUCTURE%20%2F%20BACKEND&descAlignY=60&descSize=15&animation=fadeIn"/>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:4338CA&height=190&section=header&text=ALI%20KHAN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=BACKEND%20SYSTEMS%20%C2%B7%20CLOUD%20%C2%B7%20APPLIED%20AI&descAlignY=60&descSize=13" width="100%" alt="Ali Khan — Backend Systems, Cloud, Applied AI" />
 
-<a href="https://alikhan-devs.vgercel.app"> <img src="https://img.shields.io/badge/◈_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
- 
-<a href="https://www.linkedin.com/in/alikhan-devs/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
- 
-<a href="mailto:[alikhandevs@gmail.com](mailto:alikhandevs@gmail.com)">
-<img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://alikhan-devs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-172554?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/alikhan-devs/"><img src="https://img.shields.io/badge/LinkedIn-172554?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:alikhandevs@gmail.com"><img src="https://img.shields.io/badge/Contact-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=Designing+intelligent+systems.;Engineering+production-grade+infrastructure.;Building+AI+that+actually+ships.;Turning+complexity+into+reliable+systems."/>
-
-<br><br>
+*Engineering backend systems, cloud infrastructure, and practical AI applications.*
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-<img src="https://img.shields.io/badge/●_AVAILABLE_FOR-NEW_SYSTEMS-111827?style=for-the-badge&labelColor=020617&color=312E81"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BACKEND-NODE%20%2F%20TS-0F172A?style=for-the-badge"/>
+I'm **Ali Khan**, a software engineer focused on backend development, cloud infrastructure, and applied AI. I enjoy building reliable APIs, asynchronous processing workflows, deployment automation, and useful software that connects complex systems.
 
-</div>
+- **Backend:** Node.js, TypeScript, REST APIs, PostgreSQL, Redis, queues
+- **Cloud & DevOps:** AWS, Docker, Linux, CI/CD, infrastructure automation
+- **Applied AI:** Python, PyTorch, OpenCV, computer vision
+- **Currently exploring:** System design, distributed systems, and production-oriented AI
 
-<br>
-
-<div align="center">
-
-### I BUILD SYSTEMS THAT LIVE BETWEEN
-
-**MACHINE INTELLIGENCE**   ×   **PRODUCTION INFRASTRUCTURE**
-
-<br>
-
-<sub>Computer Vision · Distributed Systems · Cloud Architecture · Developer Infrastructure</sub>
-
-</div>
-
-<br>
-
----
-
-## `//` ABOUT THE ENGINEER
+## Selected Projects
 
 <table>
 <tr>
-
-<td width="58%" valign="top">
-
-### Building beyond the model.
-
-I'm **Ali Khan**, a software engineer specializing in the engineering layer between **AI research and production systems**.
-
-I enjoy taking problems that are individually complex — computer vision, distributed processing, cloud infrastructure, developer tooling — and turning them into systems that are **observable, automated and maintainable**.
-
-Currently:
-
-> **AI Document Compliance Infrastructure**
-> `Naviko AI`
-
-And building:
-
-> **Developer & Cloud Infrastructure**
-> `SkyTech Developers`
-
-</td>
-
-<td width="42%" valign="top">
-
-### SYSTEM PROFILE
-
-```text
-┌──────────────────────────────┐
-│                              │
-│  SYSTEMS        █████████░   │
-│  AI / ML        █████████░   │
-│  BACKEND        █████████░   │
-│  CLOUD          ████████░░   │
-│  AUTOMATION     █████████░   │
-│                              │
-└──────────────────────────────┘
-```
-
-**Primary Mode**
-
-`ARCHITECT → BUILD → SHIP`
-
-**Current State**
-
-`● DEEP WORK`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# FEATURED SYSTEMS
-
-<div align="center">
-
-### `SELECTED ENGINEERING WORK`
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-6366F1?style=for-the-badge"/>
+### [DeployEase](https://github.com/AliKhan-Devs/DeployEase)
+**Cloud deployment automation**
 
-# Smart City AI
+A platform focused on simplifying application deployment to AWS through deployment workflows, infrastructure provisioning, and developer tooling.
 
-### `COMPUTER VISION / REAL-TIME AI`
-
-**● ONGOING**
-
-<br>
-
-A deep-learning surveillance system designed to understand events across concurrent camera feeds.
-
-<br>
-
-```text
-CAMERA
-   │
-   ▼
-┌──────────┐
-│   YOLO   │
-│ DETECTOR │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│ TRACKING │
-│ + RE-ID  │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│ TEMPORAL │
-│ ANALYSIS │
-└──────────┘
-```
-
-<br>
-
-`Violence Detection`
-`Firearm Detection`
-`Multi-Camera Tracking`
-`Subject Re-identification`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="30"/>
+**Next.js** · **Node.js** · **AWS** · **Docker** · **Redis** · **BullMQ**
 
 </td>
-
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-312E81?style=for-the-badge"/>
+### [WatchTower](https://github.com/AliKhan-Devs/WatchTower)
+**Application observability**
 
-# DeployEase
+A self-hosted monitoring project focused on collecting application metrics and supporting threshold-based alerts.
 
-### `CLOUD AUTOMATION / DEVOPS`
-
-**● DEPLOYED**
-
-<br>
-
-A zero-touch deployment platform that transforms GitHub repositories into production-ready AWS infrastructure.
-
-<br>
-
-```text
-GITHUB
-   │
-   ▼
- BUILD
-   │
-   ▼
-  EC2
-   │
- ┌─┴─────────────┐
- │               │
-NGINX           ALB
- │               │
- └───────┬───────┘
-         ▼
-   AUTO SCALING
-```
-
-<br>
-
-`One-Click Deployment`
-`Browser SSH Terminal`
-`AWS Infrastructure`
-`AI / MCP Operations`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,aws,docker,redis" height="30"/>
-
-<br><br>
-
-<a href="https://github.com/AliKhan-Devs/DeployEase">
-<img src="https://img.shields.io/badge/EXPLORE-6366F1?style=flat-square&logo=github&logoColor=white"/>
-</a>
+**TypeScript** · **Express** · **Redis** · **PostgreSQL**
 
 </td>
-
 </tr>
-</table>
-
-<br>
-
-<table>
 <tr>
-
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03-0F172A?style=for-the-badge"/>
+### [Docify](https://github.com/AliKhan-Devs/Docify)
+**Developer tooling**
 
-# WatchTower
+A tool exploring runtime-based API discovery and documentation generation for Express applications.
 
-### `OBSERVABILITY / OPEN SOURCE`
-
-**● SHIPPED**
-
-<br>
-
-Production observability without heavyweight infrastructure.
-
-```text
-APPLICATION
-      │
-      ▼
-   2-LINE SDK
-      │
-      ▼
- REDIS BUFFER
-      │
-      ▼
- METRICS PIPELINE
-      │
- ┌────┴─────┐
- ▼          ▼
-DASHBOARD  ALERTS
-```
-
-`Real-Time Metrics`
-`Threshold Alerts`
-`Slack / Email`
-`Self-Hosted`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=ts,express,redis,postgres" height="30"/>
-
-<br><br>
-
-<a href="https://github.com/AliKhan-Devs/WatchTower">
-<img src="https://img.shields.io/badge/EXPLORE-6366F1?style=flat-square&logo=github&logoColor=white"/>
-</a>
+**JavaScript** · **Node.js** · **Express** · **React**
 
 </td>
-
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-1E1B4B?style=for-the-badge"/>
+### Smart City AI
+**Computer vision & deep learning**
 
-# Docify
+An ongoing project exploring object detection, activity recognition, and multi-camera tracking for intelligent surveillance applications.
 
-### `DEVELOPER TOOLING / OPEN SOURCE`
-
-**● SHIPPED**
-
-<br>
-
-Runtime-driven API documentation that removes the need for manually maintained schemas.
-
-```text
-EXPRESS
-   │
-   ▼
-RUNTIME
-ANALYSIS
-   │
-   ▼
-API
-DISCOVERY
-   │
-   ▼
-LIVE
-DOCS
-```
-
-`Zero Manual Schemas`
-`Runtime Discovery`
-`Swagger-Style UI`
-`Express Native`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,react" height="30"/>
-
-<br><br>
-
-<a href="https://github.com/AliKhan-Devs/Docify">
-<img src="https://img.shields.io/badge/EXPLORE-6366F1?style=flat-square&logo=github&logoColor=white"/>
-</a>
+**Python** · **PyTorch** · **OpenCV**
 
 </td>
-
 </tr>
 </table>
 
----
+## Technology Stack
 
 <div align="center">
 
-# SYSTEM ARCHITECTURE
-
-### How I think about engineering
-
-<br>
-
-```text
-                     ┌─────────────────────┐
-                     │     INTELLIGENCE    │
-                     │                     │
-                     │  Vision · Models     │
-                     │  Detection · NLP     │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                 ┌────────────────────────────┐
-                 │                            │
-                 │     APPLICATION LAYER      │
-                 │                            │
-                 │ APIs · Services · Workers  │
-                 │ Event-Driven Architecture  │
-                 │                            │
-                 └─────────────┬──────────────┘
-                               │
-                               ▼
-          ┌────────────────────┴────────────────────┐
-          │                                         │
-          ▼                                         ▼
-┌────────────────────┐                  ┌────────────────────┐
-│      DATA          │                  │   INFRASTRUCTURE   │
-│                    │                  │                    │
-│ PostgreSQL         │                  │ AWS                │
-│ Redis              │                  │ Docker             │
-│ Metrics            │                  │ Linux / Nginx      │
-└────────────────────┘                  └────────────────────┘
-          │                                         │
-          └────────────────────┬────────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │     OBSERVABILITY   │
-                    │                     │
-                    │ Metrics · Logs      │
-                    │ Alerts · Feedback   │
-                    └─────────────────────┘
-```
-
-<br>
-
-**MODEL → SERVICE → DATA → INFRASTRUCTURE → OBSERVABILITY**
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,react,nextjs,postgres,mongodb,redis,aws,docker,linux,nginx,git,github,pytorch,opencv" alt="JavaScript, TypeScript, Python, Java, Node.js, Express, React, Next.js, PostgreSQL, MongoDB, Redis, AWS, Docker, Linux, Nginx, Git, GitHub, PyTorch, OpenCV" />
 
 </div>
 
----
-
-# THE ENGINEERING STACK
+## GitHub Activity
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1&icon_color=818CF8&ring_color=818CF8" alt="GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKhan-Devs&layout=compact&hide_border=true&bg_color=0B1020&title_color=A5B4FC&text_color=CBD5E1" alt="Top languages" width="41%" />
 
-<td align="center" width="33%">
+<br/><br/>
 
-### 🧠 INTELLIGENCE
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=tokyonight&hide_border=true&background=0B1020&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub contribution streak" />
 
-<br>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
-
-<br><br>
-
-`Computer Vision`
-`Deep Learning`
-`YOLO`
-`CNN / LSTM`
-`3D CNN`
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️ INFRASTRUCTURE
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx"/>
-
-<br><br>
-
-`Cloud Architecture`
-`Containers`
-`Automation`
-`Load Balancing`
-`Scaling`
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙️ SYSTEMS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,redis"/>
-
-<br><br>
-
-`Backend APIs`
-`Distributed Systems`
-`Event-Driven`
-`Observability`
-`Developer Tools`
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliKhan-Devs&bg_color=0B1020&color=C7D2FE&line=818CF8&point=F8FAFC&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
 
 </div>
 
----
+## Current Focus
 
-# CURRENT MISSION
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    CURRENTLY BUILDING                        ║
-║                                                              ║
-║              AI DOCUMENT COMPLIANCE                          ║
-║                   INFRASTRUCTURE                             ║
-║                                                              ║
-║   Intelligent document processing × Production AI           ║
-║                                                              ║
-║                 STATUS  ● ACTIVE                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-`AI INFRASTRUCTURE`   `DOCUMENT INTELLIGENCE`   `CLOUD SYSTEMS`
-
-</div>
-
----
-
-# ENGINEERING SIGNAL
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### `04`
-
-**SYSTEMS SHIPPED**
-
-</td>
-
-<td align="center">
-
-### `02`
-
-**OPEN SOURCE**
-
-</td>
-
-<td align="center">
-
-### `03`
-
-**CORE DOMAINS**
-
-</td>
-
-<td align="center">
-
-### `∞`
-
-**THINGS TO BUILD**
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliKhan-Devs&theme=tokyonight&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=818CF8"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AliKhan-Devs&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=818CF8&icon_color=6366F1" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliKhan-Devs&bg_color=00000000&color=818CF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-
-</div>
+- Designing scalable backend services and maintainable APIs.
+- Deepening my understanding of distributed systems, queues, caching, and system design.
+- Improving cloud deployment and infrastructure automation.
+- Exploring computer vision and production-oriented AI applications.
 
 ---
 
 <div align="center">
 
-### BUILD → DEPLOY → OBSERVE → IMPROVE
+**DESIGN · BUILD · DEPLOY · IMPROVE**
 
-<br>
+[Portfolio](https://alikhan-devs.vercel.app) · [LinkedIn](https://www.linkedin.com/in/alikhan-devs/) · [Email](mailto:alikhandevs@gmail.com)
 
-<sub>
-
-**AI Systems** · **Cloud Infrastructure** · **Backend Architecture**
-
-</sub>
-
-<br><br>
-
-<a href="https://alikhan-devs.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:[alikhandevs@gmail.com](mailto:alikhandevs@gmail.com)">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:020617&height=130&section=footer"/>
+<sub>Always learning. Always building.</sub>
 
 </div>
