@@ -14,7 +14,7 @@
 
 I'm Ali Khan, a software engineer focused on **backend development, cloud infrastructure, and distributed systems**. I enjoy understanding how systems work beneath the API: data flows, background jobs, access control, deployment processes, and failure handling.
 
-I've contributed to an existing **NestJS backend** and worked on a document workflow involving encryption, Supabase storage, and authenticated access. Outside professional work, I build tools that explore cloud automation, developer productivity, and backend architecture.
+Recently worked remotely as a **Backend Engineer at Naviko**, a Canada-based company, where I contributed to the development of its product and backend services. Outside professional work, I build tools focused on cloud automation, developer productivity, and backend architecture.
 
 - **Backend:** Node.js, NestJS, Express, REST APIs, GraphQL
 - **Data & async processing:** PostgreSQL, MongoDB, Redis, BullMQ
